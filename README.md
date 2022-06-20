@@ -2,7 +2,7 @@
 # exemps-node-js
 
 Проект по изучению node.js + фреймворка Express 
-## Usage/Examples v0.1
+## Usage/Examples v0.*
 
 Для запуска приложения используеться команда:
 ```bash
@@ -16,6 +16,12 @@ node index.js
 - создал файл index.js
 - создал простенький hello world 
 - добавил gitignore
+
+### v0.2
+- проверка работы js в node.js
+- изучение методов  __dirname и __filename
+- тест setTimpeout
+
 
 ## Authors
 
