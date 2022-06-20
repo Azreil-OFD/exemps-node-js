@@ -1,18 +1,3 @@
-console.log("Hello World!")
+var q = require("./array");
 
-console.log(__dirname)
-console.log(__filename)
-
-var x = 0
-
-if(x == 0)
-    console.log(" x = " +  x)
-
-for (let index = 0; index < 20; index++) {
-    console.log( index )
-    
-}
-
-setTimeout(() => {
-    console.log("2 sec")
-}, 2000);
+console.log(q([1,2233,3,4,5,6]))
